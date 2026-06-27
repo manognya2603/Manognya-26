@@ -1,4 +1,6 @@
 Hi there, I'm Manognya 👋
+
+
 AI/ML Engineer | Software Developer | Computer Science Undergraduate
 
 I am a B.Tech student in Computer Science Engineering (Artificial Intelligence & Machine Learning) with a strong interest in Artificial Intelligence, Machine Learning, Natural Language Processing, Agentic AI, and Data Science. I enjoy designing intelligent software solutions that solve real-world problems through data-driven approaches and modern software engineering practices.
